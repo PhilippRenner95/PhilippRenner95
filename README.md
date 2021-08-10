@@ -1,5 +1,4 @@
-- 👋 Hi, I’m @PhilippRenner95
-- 👀 I’m interested in ...
+- 👋 Hi, I’m @PhilippRenner95.
 - 🌱 I’m currently learning Python and Deep Learning Algorithms
 - 📫 How to reach me renner_philipp@gmx.de
 
